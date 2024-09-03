@@ -12,6 +12,9 @@ export default function Home(){
             </Head>
 
             <main className="main">
+                <h1 className="header">
+                    Please tab to screen
+                </h1>
                 <CoinDrop />
             </main>
         </div>
