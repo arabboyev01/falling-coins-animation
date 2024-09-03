@@ -40,7 +40,7 @@ const CoinDropSketch: Sketch = (p5) => {
     }
 
     p5.draw = () => {
-        p5.background(0);
+        p5.background(5, 8, 22);
         for (let i = coins.length - 1; i >= 0; i--) {
             coins[i].update();
             coins[i].display();
