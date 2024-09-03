@@ -29,3 +29,13 @@ This project is an interactive screen where, upon tapping, coins begin to fall f
     npm install
     ```
     # falling-coins-animation
+   
+##  Run the application
+3. After installed dependency
+   Run: 
+   ```
+   npm run dev
+   ```
+
+   project runs on http://localhost:3000
+   
